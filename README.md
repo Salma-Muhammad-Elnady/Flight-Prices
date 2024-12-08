@@ -1,6 +1,7 @@
 # **Flight Prices Prediction Project**
 The project aims to predict flight prices based on a set of features, including airline, flight date, source, destination, route, departure time (Dep_Time), arrival time (Arrival_Time), duration, total stops (Total_Stops), and additional information (Additional_Information).
 
+## Project steps details 
 ### 1. Data Import:
 + Download the Flight Prices Prediction dataset from Kaggle.
 + Import and clean the data by handling any missing or incorrect values and remove outliers. 
