@@ -2,7 +2,7 @@
 ![dataset-cover](https://github.com/user-attachments/assets/ce835284-0eac-4633-9e4f-a7ee8fae4fab)
 
 
-The project aims to predict flight prices based on a set of features, including airline, flight date, source, destination, route, departure time (Dep_Time), arrival time (Arrival_Time), duration, total stops (Total_Stops), and additional information (Additional_Information).
+### The project aims to predict flight prices based on a set of features, including airline, flight date, source, destination, route, departure time (Dep_Time), arrival time (Arrival_Time), duration, total stops (Total_Stops), and additional information (Additional_Information).
 
 ## Project steps details 
 ### 1. Data Import:
